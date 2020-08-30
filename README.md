@@ -16,3 +16,8 @@ combines all the classification votes from the different sub-bands
 achieving the similar classification accuracy of the standard
 neural network architecture. This has been demonstrated on
 benchmark data-sets of MNIST and EMNIST.
+## Requirements:
+The instructions to install PyTorch should also detail how to install TorchVision but can also be installed via:
+```
+pip install torchvision
+```
