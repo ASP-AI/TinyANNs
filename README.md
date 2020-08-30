@@ -10,7 +10,7 @@ a new method of a training a neural network having a small
 computation time and fewer parameters is discuss. Feature
 extraction is done using Discrete Wavelet Transform (DWT)
 method. A voting-based classifier consisting of a team of tiny
-artificial neural networks is proposed. The proposed classifier
+artificial neural networks is introduce. The voting-based classifier
 combines all the classification votes from the different sub-bands
 (models) to get the final voted class identity label, and thus,
 achieving the similar classification accuracy of the standard
