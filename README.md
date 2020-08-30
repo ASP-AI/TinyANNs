@@ -1,5 +1,5 @@
 # TinyANNs
-Overview:
+## Overview:
 Deep neural networks (DNNs) have recently
 achieved great success in many visual recognition tasks. However,
 training large deep neural network models are computationally
