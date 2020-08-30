@@ -17,7 +17,7 @@ achieving the similar classification accuracy of the standard
 neural network architecture. This has been demonstrated on
 benchmark data-sets of MNIST and EMNIST.
 ## Requirements:
-install TorchVision via :
+Install TorchVision via :
 ```
 pip install torchvision
 ```
