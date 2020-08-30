@@ -24,3 +24,6 @@ pip install torchvision
 ## Datasets:
 1) MNIST [Download Link](http://yann.lecun.com/exdb/mnist/)
 2) EMNIST [Download Link](https://www.nist.gov/itl/products-and-services/emnist-dataset)
+
+
+[D](https://github.com/ASP-AI/TinyANNs/blob/master/OrignalNetwork.ipynb)
