@@ -22,5 +22,5 @@ Install TorchVision via :
 pip install torchvision
 ```
 ## Datasets:
-1) MNIST [Here](http://yann.lecun.com/exdb/mnist/)
-2) EMNIST
+1) MNIST [Download Link](http://yann.lecun.com/exdb/mnist/)
+2) EMNIST [Download Link](https://www.nist.gov/itl/products-and-services/emnist-dataset)
